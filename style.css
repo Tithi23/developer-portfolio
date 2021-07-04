@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.hotpink{
+    color: hotpink;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: hotpink;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+}
